@@ -1,4 +1,5 @@
-<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/1093d9d9-f8c3-4ca5-b15e-c39e5ed67bd5" /># 👾 CHANGEME.sh
+<img width="468" height="11" alt="image" src="https://github.com/user-attachments/assets/1093d9d9-f8c3-4ca5-b15e-c39e5ed67bd5" />
+# 👾 Me.sh
 ```bash
 $ whoami
 > Harsh Raul — Cybersecurity Engineer
@@ -75,7 +76,7 @@ $ ls /projects
 > Built a home lab environment simulating enterprise SIEM deployment.
 > Configured log ingestion, alert tuning, and threat detection pipelines.
 
-[![View Project](https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshraul24//rednblue)
 
 ---
 
@@ -83,17 +84,17 @@ $ ls /projects
 > Automated incident response workflows using Shuffle SOAR, TheHive,
 > and custom scripts for threat triage and case management.
 
-[![View Project](https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View_Project-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshraul24/Secure-Chain)
 
 ---
 
 ## 📡 Connect
 ```bash
-$ ping [yourname] --social
+$ ping HarshRaul --social
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshraul24)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raulharsh24@gmail.com)
 
 ---
